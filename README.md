@@ -59,12 +59,15 @@ The project includes three main dashboards:
 
 1. **City Demand Overview**  
     Seasonality, trends, and peak demand periods
+   https://public.tableau.com/app/profile/rui.braz/viz/LisbonDemandOverview/LisbonDemandOverview?publish=yes
 
-2. **Demand Drivers Analysis**  
+3. **Demand Drivers Analysis**  
     Relationship between demand, tourism, weather, and holidays
+   https://public.tableau.com/app/profile/rui.braz/viz/SeasonalityandExternalDemandDrivers/SeasonalityDemandDrivers?publish=yes
 
-3. **Restaurant Exposure Analysis**  
+5. **Restaurant Exposure Analysis**  
     Identification of highly exposed restaurants during peak demand
+   https://public.tableau.com/app/profile/rui.braz/viz/RestaurantExposurevsCityDemandPressureLisbon/RestaurantExposure?publish=yes
 
 ---
 
